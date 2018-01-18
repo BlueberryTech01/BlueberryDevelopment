@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 01/2018, BLueberry Tech srl.
+ * Copyright (c) 01/2018, Blueberry Tech srl.
  * All rights reserved.
  *
 /**
