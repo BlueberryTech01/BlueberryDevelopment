@@ -1,7 +1,7 @@
 /* 
-Board X.IP5 personalizzato
-Autore: Castaldo Mario
-Azienda: BlueberryTech srl */
+ * Copyright (c) 01/2018, Blueberry Tech srl.
+ * All rights reserved.
+ */ 
 /*----------------------------------------------------------------------------------------------------------------------------------------------------*/
 #ifndef BOARD_H_
 #define BOARD_H_
